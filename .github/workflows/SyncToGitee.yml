@@ -22,4 +22,4 @@ jobs:
         debug: true
         force_update: true
         static_list: "picture"
-        timeout: '10s'
+        timeout: '1s'
